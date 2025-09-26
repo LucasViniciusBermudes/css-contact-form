@@ -10,6 +10,10 @@ Após o envio, o usuário é redirecionado para uma página de agradecimento.
 - Redirecionamento automático para a página `obrigado.html`.
 - Estilo moderno com foco em **UI/UX minimalista**.
 
+## 🛠️ Tecnologias Utilizadas
+- **HTML5**
+- **CSS3**
+
 ## ▶️ Como Executar
 
 1. Clone este repositório:
@@ -23,3 +27,4 @@ Após o envio, o usuário é redirecionado para uma página de agradecimento.
    start index.html      # Windows
    open index.html       # macOS
    xdg-open index.html   # Linux
+
